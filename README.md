@@ -6,6 +6,17 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
 ## 💻 Linguagens de programação e Ferramentas:
 
 ### Habilidades que eu já domino 🎯
+<div style="display: inline_block"><br>
+  <img align="center" alt="Andre-C#" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Andre-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Andre-Css" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Andre-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Andre-Dart" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"/>
+  <img align="center" alt="Andre-MySql" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+
+</div>
+
+
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,3 +32,4 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=dark"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreSetteCamara&layout=compact&langs_count=16&theme=dark""/>
 </div>
+
