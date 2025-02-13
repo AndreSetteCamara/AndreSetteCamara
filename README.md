@@ -3,18 +3,25 @@
 ## 📌 Sobre mim:
 Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprender novas linguagens.<br> 🔍 Procurando meu primeiro estágio.<br> 🎮 Interesses: Programação, tecnologia, física, música, videogames.<br>🦈 Em busca de novos desafios.
 
-## 💻 Linguagens de programação e Ferramentas:
-
-### Habilidades que eu já domino 🎯
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-C#" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Andre-Html" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Andre-Css" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Andre-Js" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Andre-Dart" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"/>
-  <img align="center" alt="Andre-MySql" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+### Hard Skills 🦾
+<div style="display: inline_block">
+  <img align="center" alt="Andre-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Andre-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Andre-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Andre-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Andre-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
+  <img align="center" alt="Andre-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 </div>
+
+## 📊 GitHub Stats:
+<div>
+  <a href="https://github.com/AndreSetteCamara"></a>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreSetteCamara&layout=compact&langs_count=16&theme=dark""/>
+</div>
+
+ ##
 
 
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,11 +32,3 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-## 📊 GitHub Stats:
-<div>
-  <a href="https://github.com/AndreSetteCamara"></a>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreSetteCamara&layout=compact&langs_count=16&theme=dark""/>
-</div>
-
