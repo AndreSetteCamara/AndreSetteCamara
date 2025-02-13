@@ -18,6 +18,6 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
 ## 📊 GitHub Stats:
 <div>
   <a href="https://github.com/AndreSetteCamara"></a>
-  <img height="" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=radical"/>
-  <img height="" src=""/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreSetteCamara&theme=dark""/>
 </div>
