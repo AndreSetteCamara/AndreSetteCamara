@@ -1,8 +1,7 @@
-### Olá, me chamo André Sette Camara!
+# Olá, me chamo André Sette Camara!
 
 ## 📌 Sobre mim:
 Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprender novas linguagens.<br> 🔍 Procurando meu primeiro estágio.<br> 🎮 Interesses: Programação, tecnologia, física, música, videogames.<br>🦈 Em busca de novos desafios.
-
 
 ## 💻 Linguagens de programação e Ferramentas:
 
@@ -17,11 +16,8 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![]() <br>
-![]()
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bernardooldz&theme=gruvbox&hide_border=false)<br/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=bernardooldz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <a href="https://github.com/AndreSetteCamara"></a>
+  <img height="" src="https://github-readme-stats.vercel.app/api?username=AndreSetteCamara&show_icons=true&theme=radical"/>
+  <img height="" src=""/>
+</div>
