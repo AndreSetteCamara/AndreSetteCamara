@@ -1,7 +1,7 @@
 # Olá, me chamo André Sette Camara!
 
 ## 📌 about me:
-Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprender novas linguagens.<br> 🔍 Procurando meu primeiro estágio.<br> 🎮 Interesses: Programação, tecnologia, física, música, videogames.<br>🦈 Em busca de novos desafios.
+📚 Atrás de aprender novas linguagens.<br> 🔍 Procurando meu primeiro estágio.<br> 🎮 Interesses: Programação, tecnologia, física, música, videogames.<br>🦈 Em busca de novos desafios.
 
 ### Hard Skills 🦾
 <div style="display: inline_block">
