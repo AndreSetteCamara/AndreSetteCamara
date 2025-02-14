@@ -24,6 +24,6 @@ Estudante do Ensino Médio na escola técnica Cotemig.<br>📚 Atrás de aprende
  ##
 
 <div>
-  <a href="andrescp.tec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto: andrescp.tec@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-sette-camara-pereira-88893334b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
