@@ -1,4 +1,4 @@
-# Olá, me chamo André Sette Camâra Pereira!
+# Olá, me chamo André Sette Câmara Pereira!
 
 ## 📌 about me:
 📚 Atrás de aprender novas linguagens.<br> 🔍 Procurando meu primeiro estágio.<br> 🎮 Interesses: Programação, tecnologia, física, música, videogames.<br>🦈 Em busca de novos desafios.
